@@ -1,0 +1,15 @@
+# NEXORA TASKS - Requerimientos del Sistema
+# Materia: Tópicos Avanzados de Programación
+#
+# Este proyecto utiliza primordialmente módulos de la Biblioteca Estándar de Python 3.10+:
+# - tkinter / ttk (Interfaz gráfica de usuario)
+# - sqlite3 (Motor de base de datos relacional)
+# - hashlib (Funciones criptográficas PBKDF2-HMAC-SHA256 para contraseñas)
+# - dataclasses (Modelos de datos orientados a objetos)
+# - typing (Anotaciones de tipos)
+# - datetime (Manejo de fechas y tiempos)
+# - os, sys, pathlib (Manejo de rutas del sistema operativo)
+#
+# No se requieren dependencias externas de terceros para la ejecución básica.
+# Para pruebas automatizadas opcionales:
+pytest>=7.4.0
